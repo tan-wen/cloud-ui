@@ -1,0 +1,16 @@
+<template>
+  <el-row>
+    <el-col :span="24"><div class="grid-content bg-purple-dark">欢迎使用AOYANG-CLOUD</div></el-col>
+  </el-row>
+</template>
+
+<script>
+export default {
+  name: "index"
+};
+</script>
+
+<style scoped lang="scss">
+
+</style>
+
