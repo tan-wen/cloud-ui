@@ -2,10 +2,10 @@
 
 ```bash
 # 克隆项目
-git clone https://gitee.com/y_project/RuoYi-Vue
+git clone ssh://git@172.23.112.16:8022/went/aoyang-cloud-ui.git
 
 # 进入项目目录
-cd ruoyi-ui
+cd aoyang-cloud-ui
 
 # 安装依赖
 npm install
